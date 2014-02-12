@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=x\ y
+comment1.target=Fireball(int,\ int)
+comment1.text=\n\ Initializes\ the\ fireball,\ accepts\ the\ coordinates\ where\ the\ mouse\ clicked.\ Is\ called\ in\ Dragon's\n\ shootFire()\ method.\n
+comment2.params=
+comment2.target=Fireball()
+comment3.params=
+comment3.target=void\ hitEnemy()
+comment4.params=
+comment4.target=void\ hitBoss()
+comment5.params=
+comment5.target=void\ shrink()
+comment6.params=
+comment6.target=void\ hitsGround()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=fullHealth\ currentHealth
+comment1.target=HealthBar(int,\ int)
+comment2.params=fullHealth
+comment2.target=HealthBar(int)
+comment3.params=
+comment3.target=void\ updateColor()
+numComments=4

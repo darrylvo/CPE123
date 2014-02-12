@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ startX\ startY\ type\ sign
+comment0.target=Rock1(double,\ double,\ double,\ double,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Rock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ parabolicThrow()
+comment3.params=
+comment3.target=void\ straightThrow()
+comment4.params=
+comment4.target=void\ highThrow()
+comment5.params=
+comment5.target=void\ inBounds()
+comment6.params=
+comment6.target=void\ hit()
+numComments=7

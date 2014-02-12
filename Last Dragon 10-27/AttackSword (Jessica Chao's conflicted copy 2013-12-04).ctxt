@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AttackSword()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=dir
+comment2.target=AttackSword(java.lang.String)
+comment3.params=r
+comment3.target=void\ changeRotation(int)
+comment4.params=
+comment4.target=void\ slash()
+comment5.params=
+comment5.target=void\ doDmg()
+comment6.params=
+comment6.target=void\ attack()
+numComments=7

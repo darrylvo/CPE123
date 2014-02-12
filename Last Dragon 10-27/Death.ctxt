@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Death()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=f\ x\ y
+comment2.target=void\ lightUp(Fill,\ int,\ int)
+comment3.params=f\ x\ y
+comment3.target=void\ darken(Fill,\ int,\ int)
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment5.params=b
+comment5.target=void\ setStage(int)
+comment6.params=
+comment6.target=int\ getStage()
+numComments=7

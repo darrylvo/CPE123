@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=King()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mode1()
+comment3.params=
+comment3.target=void\ mode2()
+comment4.params=
+comment4.target=void\ pickingThrow()
+comment5.params=type\ sign
+comment5.target=void\ throwing(java.lang.String,\ java.lang.String)
+comment6.params=x\ y\ x2\ y2
+comment6.target=void\ setMainPos(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=void\ kill()
+comment8.params=
+comment8.target=void\ loseHealth()
+comment9.params=
+comment9.target=void\ die()
+numComments=10
